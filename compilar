@@ -1,0 +1,2 @@
+g++ MiniPac.cpp Tablero.cpp Nodo.cpp Personaje.cpp -o MiniPacman
+chmod +x ./MiniPacman
